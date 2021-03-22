@@ -1,0 +1,1403 @@
+Aracaju,Belem
+km_rodovia=2079
+km_aerea=1641
+
+Aracaju,Belo Horizonte
+km_rodovia=1578
+km_aerea=1248
+
+Aracaju,Boa Vista
+km_rodovia=6000
+km_aerea=3022
+
+Aracaju,Brasilia
+km_rodovia=1652
+km_aerea=1292
+
+Aracaju,Campo Grande
+km_rodovia=2765
+km_aerea=2155
+
+Aracaju,Cuiaba
+km_rodovia=2775
+km_aerea=2121
+
+Aracaju,Curitiba
+km_rodovia=2595
+km_aerea=2061
+
+Aracaju,Florianopolis
+km_rodovia=2895
+km_aerea=2207
+
+Aracaju,Fortaleza
+km_rodovia=1189
+km_aerea=815
+
+Aracaju,Goiania
+km_rodovia=1848
+km_aerea=1461
+
+Aracaju,Joao Pessoa
+km_rodovia=611
+km_aerea=486
+
+Aracaju,Macapa
+km_rodovia=2895
+km_aerea=1967
+
+Aracaju,Maceio
+km_rodovia=294
+km_aerea=201
+
+Aracaju,Manaus
+km_rodovia=5215
+km_aerea=2673
+
+Aracaju,Natal
+km_rodovia=788
+km_aerea=604
+
+Aracaju,Palmas
+km_rodovia=1662
+km_aerea=1235
+
+Aracaju,Porto Alegre
+km_rodovia=3296
+km_aerea=2580
+
+Aracaju,Porto Velho
+km_rodovia=4230
+km_aerea=2946
+
+Aracaju,Recife
+km_rodovia=501
+km_aerea=398
+
+Aracaju,Rio Branco
+km_rodovia=4763
+km_aerea=3359
+
+Aracaju,Rio de Janeiro
+km_rodovia=1855
+km_aerea=1482
+
+Aracaju,Salvador
+km_rodovia=356
+km_aerea=277
+
+Aracaju,Sao Luis
+km_rodovia=1578
+km_aerea=1226
+
+Aracaju,Sao Paulo
+km_rodovia=2187
+km_aerea=1731
+
+Aracaju,Teresina
+km_rodovia=1142
+km_aerea=903
+
+Aracaju,Vitoria
+km_rodovia=1408
+km_aerea=1102
+
+Belem,Belo Horizonte
+km_rodovia=2824
+km_aerea=2111
+
+Belem,Boa Vista
+km_rodovia=6083
+km_aerea=1432
+
+Belem,Brasilia
+km_rodovia=2120
+km_aerea=1592
+
+Belem,Campo Grande
+km_rodovia=2942
+km_aerea=2212
+
+Belem,Cuiaba
+km_rodovia=2941
+km_aerea=1778
+
+Belem,Curitiba
+km_rodovia=3193
+km_aerea=2665
+
+Belem,Florianopolis
+km_rodovia=3500
+km_aerea=2904
+
+Belem,Fortaleza
+km_rodovia=1610
+km_aerea=1133
+
+Belem,Goiania
+km_rodovia=2017
+km_aerea=1693
+
+Belem,Joao Pessoa
+km_rodovia=2161
+km_aerea=1636
+
+Belem,Macapa
+km_rodovia=868
+km_aerea=329
+
+Belem,Maceio
+km_rodovia=2173
+km_aerea=1680
+
+Belem,Manaus
+km_rodovia=5298
+km_aerea=1292
+
+Belem,Natal
+km_rodovia=2108
+km_aerea=1550
+
+Belem,Palmas
+km_rodovia=1283
+km_aerea=973
+
+Belem,Porto Alegre
+km_rodovia=3852
+km_aerea=3188
+
+Belem,Porto Velho
+km_rodovia=4397
+km_aerea=1886
+
+Belem,Recife
+km_rodovia=2074
+km_aerea=1676
+
+Belem,Rio Branco
+km_rodovia=4931
+km_aerea=2333
+
+Belem,Rio de Janeiro
+km_rodovia=3250
+km_aerea=2450
+
+Belem,Salvador
+km_rodovia=2100
+km_aerea=1687
+
+Belem,Sao Luis
+km_rodovia=806
+km_aerea=481
+
+Belem,Sao Paulo
+km_rodovia=2933
+km_aerea=2463
+
+Belem,Teresina
+km_rodovia=947
+km_aerea=750
+
+Belem,Vitoria
+km_rodovia=3108
+km_aerea=2275
+
+Belo Horizonte,Boa Vista
+km_rodovia=4736
+km_aerea=3117
+
+Belo Horizonte,Brasilia
+km_rodovia=716
+km_aerea=624
+
+Belo Horizonte,Campo Grande
+km_rodovia=1453
+km_aerea=1118
+
+Belo Horizonte,Cuiaba
+km_rodovia=1594
+km_aerea=1372
+
+Belo Horizonte,Curitiba
+km_rodovia=1004
+km_aerea=820
+
+Belo Horizonte,Florianopolis
+km_rodovia=1301
+km_aerea=973
+
+Belo Horizonte,Fortaleza
+km_rodovia=2528
+km_aerea=1893
+
+Belo Horizonte,Goiania
+km_rodovia=906
+km_aerea=666
+
+Belo Horizonte,Joao Pessoa
+km_rodovia=2171
+km_aerea=1726
+
+Belo Horizonte,Macapa
+km_rodovia=3383
+km_aerea=2349
+
+Belo Horizonte,Maceio
+km_rodovia=1854
+km_aerea=1439
+
+Belo Horizonte,Manaus
+km_rodovia=3951
+km_aerea=2556
+
+Belo Horizonte,Natal
+km_rodovia=2348
+km_aerea=1831
+
+Belo Horizonte,Palmas
+km_rodovia=1690
+km_aerea=1178
+
+Belo Horizonte,Porto Alegre
+km_rodovia=1712
+km_aerea=1341
+
+Belo Horizonte,Porto Velho
+km_rodovia=3050
+km_aerea=2477
+
+Belo Horizonte,Recife
+km_rodovia=2061
+km_aerea=1639
+
+Belo Horizonte,Rio Branco
+km_rodovia=3584
+km_aerea=2786
+
+Belo Horizonte,Rio de Janeiro
+km_rodovia=434
+km_aerea=339
+
+Belo Horizonte,Salvador
+km_rodovia=1372
+km_aerea=964
+
+Belo Horizonte,Sao Luis
+km_rodovia=2738
+km_aerea=1932
+
+Belo Horizonte,Sao Paulo
+km_rodovia=586
+km_aerea=489
+
+Belo Horizonte,Teresina
+km_rodovia=2302
+km_aerea=1652
+
+Belo Horizonte,Vitoria
+km_rodovia=524
+km_aerea=378
+
+Boa Vista,Brasilia
+km_rodovia=4275
+km_aerea=2496
+
+Boa Vista,Campo Grande
+km_rodovia=3836
+km_aerea=2667
+
+Boa Vista,Cuiaba
+km_rodovia=3142
+km_aerea=2107
+
+Boa Vista,Curitiba
+km_rodovia=4821
+km_aerea=3370
+
+Boa Vista,Florianopolis
+km_rodovia=5128
+km_aerea=3620
+
+Boa Vista,Fortaleza
+km_rodovia=6548
+km_aerea=2562
+
+Boa Vista,Goiania
+km_rodovia=4076
+km_aerea=2503
+
+Boa Vista,Joao Pessoa
+km_rodovia=6593
+km_aerea=3067
+
+Boa Vista,Macapa
+km_rodovia=2244
+km_aerea=1110
+
+Boa Vista,Maceio
+km_rodovia=6279
+km_aerea=3089
+
+Boa Vista,Manaus
+km_rodovia=785
+km_aerea=661
+
+Boa Vista,Natal
+km_rodovia=6770
+km_aerea=2983
+
+Boa Vista,Palmas
+km_rodovia=4926
+km_aerea=1988
+
+Boa Vista,Porto Alegre
+km_rodovia=5348
+km_aerea=3785
+
+Boa Vista,Porto Velho
+km_rodovia=1686
+km_aerea=1335
+
+Boa Vista,Recife
+km_rodovia=6483
+km_aerea=3103
+
+Boa Vista,Rio Branco
+km_rodovia=2230
+km_aerea=1626
+
+Boa Vista,Rio de Janeiro
+km_rodovia=5159
+km_aerea=3428
+
+Boa Vista,Salvador
+km_rodovia=5794
+km_aerea=3009
+
+Boa Vista,Sao Luis
+km_rodovia=6120
+km_aerea=1913
+
+Boa Vista,Sao Paulo
+km_rodovia=4756
+km_aerea=3300
+
+Boa Vista,Teresina
+km_rodovia=6052
+km_aerea=2169
+
+Boa Vista,Vitoria
+km_rodovia=5261
+km_aerea=3394
+
+Brasilia,Campo Grande
+km_rodovia=1134
+km_aerea=878
+
+Brasilia,Cuiaba
+km_rodovia=1133
+km_aerea=873
+
+Brasilia,Curitiba
+km_rodovia=1366
+km_aerea=1081
+
+Brasilia,Florianopolis
+km_rodovia=1673
+km_aerea=1314
+
+Brasilia,Fortaleza
+km_rodovia=2200
+km_aerea=1687
+
+Brasilia,Goiania
+km_rodovia=209
+km_aerea=173
+
+Brasilia,Joao Pessoa
+km_rodovia=2245
+km_aerea=1716
+
+Brasilia,Macapa
+km_rodovia=2660
+km_aerea=1791
+
+Brasilia,Maceio
+km_rodovia=1930
+km_aerea=1485
+
+Brasilia,Manaus
+km_rodovia=3490
+km_aerea=1932
+
+Brasilia,Natal
+km_rodovia=2422
+km_aerea=1775
+
+Brasilia,Palmas
+km_rodovia=973
+km_aerea=620
+
+Brasilia,Porto Alegre
+km_rodovia=2027
+km_aerea=1619
+
+Brasilia,Porto Velho
+km_rodovia=2589
+km_aerea=1900
+
+Brasilia,Recife
+km_rodovia=2135
+km_aerea=1657
+
+Brasilia,Rio Branco
+km_rodovia=3123
+km_aerea=2246
+
+Brasilia,Rio de Janeiro
+km_rodovia=1148
+km_aerea=933
+
+Brasilia,Salvador
+km_rodovia=1446
+km_aerea=1060
+
+Brasilia,Sao Luis
+km_rodovia=2157
+km_aerea=1524
+
+Brasilia,Sao Paulo
+km_rodovia=1015
+km_aerea=873
+
+Brasilia,Teresina
+km_rodovia=1789
+km_aerea=1313
+
+Brasilia,Vitoria
+km_rodovia=1239
+km_aerea=947
+
+Campo Grande,Cuiaba
+km_rodovia=694
+km_aerea=559
+
+Campo Grande,Curitiba
+km_rodovia=991
+km_aerea=780
+
+Campo Grande,Florianopolis
+km_rodovia=1298
+km_aerea=1007
+
+Campo Grande,Fortaleza
+km_rodovia=3407
+km_aerea=2547
+
+Campo Grande,Goiania
+km_rodovia=935
+km_aerea=705
+
+Campo Grande,Joao Pessoa
+km_rodovia=3357
+km_aerea=2593
+
+Campo Grande,Macapa
+km_rodovia=3537
+km_aerea=2309
+
+Campo Grande,Maceio
+km_rodovia=3040
+km_aerea=2352
+
+Campo Grande,Manaus
+km_rodovia=3051
+km_aerea=2013
+
+Campo Grande,Natal
+km_rodovia=3534
+km_aerea=2654
+
+Campo Grande,Palmas
+km_rodovia=1785
+km_aerea=1320
+
+Campo Grande,Porto Alegre
+km_rodovia=1518
+km_aerea=1119
+
+Campo Grande,Porto Velho
+km_rodovia=2150
+km_aerea=1634
+
+Campo Grande,Recife
+km_rodovia=3247
+km_aerea=2530
+
+Campo Grande,Rio Branco
+km_rodovia=2684
+km_aerea=1827
+
+Campo Grande,Rio de Janeiro
+km_rodovia=1444
+km_aerea=1212
+
+Campo Grande,Salvador
+km_rodovia=2568
+km_aerea=1905
+
+Campo Grande,Sao Luis
+km_rodovia=2979
+km_aerea=2284
+
+Campo Grande,Sao Paulo
+km_rodovia=1014
+km_aerea=894
+
+Campo Grande,Teresina
+km_rodovia=2911
+km_aerea=2132
+
+Campo Grande,Vitoria
+km_rodovia=1892
+km_aerea=1490
+
+Cuiaba,Curitiba
+km_rodovia=1679
+km_aerea=1302
+
+Cuiaba,Florianopolis
+km_rodovia=1986
+km_aerea=1543
+
+Cuiaba,Fortaleza
+km_rodovia=3406
+km_aerea=2329
+
+Cuiaba,Goiania
+km_rodovia=934
+km_aerea=740
+
+Cuiaba,Joao Pessoa
+km_rodovia=3366
+km_aerea=2495
+
+Cuiaba,Macapa
+km_rodovia=3354
+km_aerea=1822
+
+Cuiaba,Maceio
+km_rodovia=3049
+km_aerea=2302
+
+Cuiaba,Manaus
+km_rodovia=2357
+km_aerea=1453
+
+Cuiaba,Natal
+km_rodovia=3543
+km_aerea=2524
+
+Cuiaba,Palmas
+km_rodovia=1784
+km_aerea=1029
+
+Cuiaba,Porto Alegre
+km_rodovia=2206
+km_aerea=1679
+
+Cuiaba,Porto Velho
+km_rodovia=1456
+km_aerea=1137
+
+Cuiaba,Recife
+km_rodovia=3255
+km_aerea=2452
+
+Cuiaba,Rio Branco
+km_rodovia=1990
+km_aerea=1414
+
+Cuiaba,Rio de Janeiro
+km_rodovia=2017
+km_aerea=1575
+
+Cuiaba,Salvador
+km_rodovia=2566
+km_aerea=1915
+
+Cuiaba,Sao Luis
+km_rodovia=2978
+km_aerea=1942
+
+Cuiaba,Sao Paulo
+km_rodovia=1614
+km_aerea=1326
+
+Cuiaba,Teresina
+km_rodovia=2910
+km_aerea=1862
+
+Cuiaba,Vitoria
+km_rodovia=2119
+km_aerea=1745
+
+Curitiba,Florianopolis
+km_rodovia=300
+km_aerea=251
+
+Curitiba,Fortaleza
+km_rodovia=3541
+km_aerea=2670
+
+Curitiba,Goiania
+km_rodovia=1186
+km_aerea=972
+
+Curitiba,Joao Pessoa
+km_rodovia=3188
+km_aerea=2545
+
+Curitiba,Macapa
+km_rodovia=4002
+km_aerea=2836
+
+Curitiba,Maceio
+km_rodovia=2871
+km_aerea=2259
+
+Curitiba,Manaus
+km_rodovia=4036
+km_aerea=2734
+
+Curitiba,Natal
+km_rodovia=3365
+km_aerea=3645
+
+Curitiba,Palmas
+km_rodovia=2036
+km_aerea=1693
+
+Curitiba,Porto Alegre
+km_rodovia=711
+km_aerea=546
+
+Curitiba,Porto Velho
+km_rodovia=3135
+km_aerea=2412
+
+Curitiba,Recife
+km_rodovia=3078
+km_aerea=2459
+
+Curitiba,Rio Branco
+km_rodovia=3669
+km_aerea=2601
+
+Curitiba,Rio de Janeiro
+km_rodovia=852
+km_aerea=675
+
+Curitiba,Salvadr
+km_rodovia=2385
+km_aerea=1784
+
+Curitiba,Sao Luis
+km_rodovia=3230
+km_aerea=2599
+
+Curitiba,Sao Paulo
+km_rodovia=408
+km_aerea=338
+
+Curitiba,Teresina
+km_rodovia=3143
+km_aerea=2362
+
+Curitiba,Vitoria
+km_rodovia=1300
+km_aerea=1076
+
+Florianopolis,Fortaleza
+km_rodovia=3838
+km_aerea=2857
+
+Florianopolis,Goiania
+km_rodovia=1493
+km_aerea=1215
+
+Florianopolis,Joao Pessoa
+km_rodovia=3485
+km_aerea=1693
+
+Florianopolis,Macapa
+km_rodovia=4289
+km_aerea=3082
+
+Florianopolis,Maceio
+km_rodovia=3168
+km_aerea=2402
+
+Florianopolis,Manaus
+km_rodovia=4443
+km_aerea=2981
+
+Florianopolis,Natal
+km_rodovia=3662
+km_aerea=2802
+
+Florianopolis,Palmas
+km_rodovia=2336
+km_aerea=1931
+
+Florianopolis,Porto Alegre
+km_rodovia=476
+km_aerea=376
+
+Florianopolis,Porto Velho
+km_rodovia=3442
+km_aerea=2641
+
+Florianopolis,Recife
+km_rodovia=3375
+km_aerea=2603
+
+Florianopolis,Rio Branco
+km_rodovia=3976
+km_aerea=2809
+
+Florianopolis,Rio de Janeiro
+km_rodovia=1144
+km_aerea=748
+
+Florianopolis,Salvador
+km_rodovia=2682
+km_aerea=1930
+
+Florianopolis,Sao Luis
+km_rodovia=3537
+km_aerea=2821
+
+Florianopolis,Sao Paulo
+km_rodovia=705
+km_aerea=489
+
+Florianopolis,Teresina
+km_rodovia=3450
+km_aerea=2573
+
+Florianopolis,Vitoria
+km_rodovia=1597
+km_aerea=1160
+
+Fortaleza,Goiania
+km_rodovia=2482
+km_aerea=1854
+
+Fortaleza,Joao Pessoa
+km_rodovia=688
+km_aerea=555
+
+Fortaleza,Macapa
+km_rodovia=2297
+km_aerea=1451
+
+Fortaleza,Maceio
+km_rodovia=1075
+km_aerea=730
+
+Fortaleza,Manaus
+km_rodovia=5763
+km_aerea=2383
+
+Fortaleza,Natal
+km_rodovia=537
+km_aerea=435
+
+Fortaleza,Palmas
+km_rodovia=2035
+km_aerea=1300
+
+Fortaleza,Porto Alegre
+km_rodovia=4242
+km_aerea=3213
+
+Fortaleza,Porto Velho
+km_rodovia=4862
+km_aerea=2855
+
+Fortaleza,Recife
+km_rodovia=800
+km_aerea=629
+
+Fortaleza,Rio Branco
+km_rodovia=5396
+km_aerea=3300
+
+Fortaleza,Rio de Janeiro
+km_rodovia=2085
+km_aerea=2190
+
+Fortaleza,Salvador
+km_rodovia=1389
+km_aerea=1028
+
+Fortaleza,Sao Luis
+km_rodovia=1070
+km_aerea=652
+
+Fortaleza,Sao Paulo
+km_rodovia=3127
+km_aerea=2368
+
+Fortaleza,Teresina
+km_rodovia=634
+km_aerea=495
+
+Fortaleza,Vitoria
+km_rodovia=2397
+km_aerea=1855
+
+Goiania,Joao Pessoa
+km_rodovia=2442
+km_aerea=1889
+
+Goiania,Macapa
+km_rodovia=2700
+km_aerea=1868
+
+Goiania,Maceio
+km_rodovia=2125
+km_aerea=1656
+
+Goiania,Manaus
+km_rodovia=3291
+km_aerea=1912
+
+Goiania,Natal
+km_rodovia=2618
+km_aerea=1948
+
+Goiania,Palmas
+km_rodovia=874
+km_aerea=724
+
+Goiania,Porto Alegre
+km_rodovia=1847
+km_aerea=1497
+
+Goiania,Porto Velho
+km_rodovia=2390
+km_aerea=1813
+
+Goiania,Recife
+km_rodovia=2332
+km_aerea=1829
+
+Goiania,Rio Branco
+km_rodovia=2924
+km_aerea=2138
+
+Goiania,Rio de Janeiro
+km_rodovia=1338
+km_aerea=936
+
+Goiania,Salvador
+km_rodovia=1643
+km_aerea=1225
+
+Goiania,Sao Luis
+km_rodovia=2054
+km_aerea=1662
+
+Goiania,Sao Paulo
+km_rodovia=926
+km_aerea=810
+
+Goiania,Teresina
+km_rodovia=1986
+km_aerea=1467
+
+Goiania,Vitoria
+km_rodovia=1428
+km_aerea=1022
+
+Joao Pessoa,Macapa
+km_rodovia=2896
+km_aerea=1964
+
+Joao Pessoa,Maceio
+km_rodovia=395
+km_aerea=299
+
+Joao Pessoa,Manaus
+km_rodovia=5808
+km_aerea=2819
+
+Joao Pessoa,Natal
+km_rodovia=185
+km_aerea=151
+
+Joao Pessoa,Palmas
+km_rodovia=2253
+km_aerea=1521
+
+Joao Pessoa,Porto Alegre
+km_rodovia=3889
+km_aerea=3066
+
+Joao Pessoa,Porto Velho
+km_rodovia=4822
+km_aerea=3200
+
+Joao Pessoa,Recife
+km_rodovia=120
+km_aerea=104
+
+Joao Pessoa,Rio Branco
+km_rodovia=5356
+km_aerea=3632
+
+Joao Pessoa,Rio de Janeiro
+km_rodovia=2448
+km_aerea=1968
+
+Joao Pessoa,Salvador
+km_rodovia=949
+km_aerea=763
+
+Joao Pessoa,Sao Luis
+km_rodovia=1660
+km_aerea=1162
+
+Joao Pessoa,Sao Paulo
+km_rodovia=2770
+km_aerea=2216
+
+Joao Pessoa,Teresina
+km_rodovia=1224
+km_aerea=905
+
+Joao Pessoa,Vitoria
+km_rodovia=2001
+km_aerea=1581
+
+Macapa,Maceio
+km_rodovia=2931
+km_aerea=2009
+
+Macapa,Manaus
+km_rodovia=1500
+km_aerea=1054
+
+Macapa,Natal
+km_rodovia=2845
+km_aerea=1874
+
+Macapa,Palmas
+km_rodovia=1951
+km_aerea=1177
+
+Macapa,Porto Alegre
+km_rodovia=4792
+km_aerea=3341
+
+Macapa,Porto Velho
+km_rodovia=2303
+km_aerea=1724
+
+Macapa,Recife
+km_rodovia=2866
+km_aerea=2005
+
+Macapa,Rio Branco
+km_rodovia=2815
+km_aerea=2159
+
+Macapa,Rio de Janeiro
+km_rodovia=3854
+km_aerea=2687
+
+Macapa,Salvador
+km_rodovia=2888
+km_aerea=2000
+
+Macapa,Sao Luis
+km_rodovia=1406
+km_aerea=803
+
+Macapa,Sao Paulo
+km_rodovia=3685
+km_aerea=2644
+
+Macapa,Teresina
+km_rodovia=1738
+km_aerea=1079
+
+Macapa,Vitoria
+km_rodovia=3865
+km_aerea=2545
+
+Maceio,Manaus
+km_rodovia=5491
+km_aerea=2778
+
+Maceio,Natal
+km_rodovia=572
+km_aerea=434
+
+Maceio,Palmas
+km_rodovia=1851
+km_aerea=1383
+
+Maceio,Porto Alegre
+km_rodovia=3572
+km_aerea=2775
+
+Maceio,Porto Velho
+km_rodovia=4505
+km_aerea=3090
+
+Maceio,Recife
+km_rodovia=285
+km_aerea=202
+
+Maceio,Rio Branco
+km_rodovia=5039
+km_aerea=3510
+
+Maceio,Rio de Janeiro
+km_rodovia=2131
+km_aerea=1671
+
+Maceio,Salvador
+km_rodovia=632
+km_aerea=475
+
+Maceio,Sao Luis
+km_rodovia=1672
+km_aerea=1234
+
+Maceio,Sao Paulo
+km_rodovia=2453
+km_aerea=1928
+
+Maceio,Teresina
+km_rodovia=1236
+km_aerea=929
+
+Maceio,Vitoria
+km_rodovia=1684
+km_aerea=1282
+
+Manaus,Natal
+km_rodovia=5985
+km_aerea=2765
+
+Manaus,Palmas
+km_rodovia=4141
+km_aerea=1509
+
+Manaus,Porto Alegre
+km_rodovia=4563
+km_aerea=3132
+
+Manaus,Porto Velho
+km_rodovia=901
+km_aerea=761
+
+Manaus,Recife
+km_rodovia=5698
+km_aerea=2833
+
+Manaus,Rio Branco
+km_rodovia=1445
+km_aerea=1149
+
+Manaus,Rio de Janeiro
+km_rodovia=4374
+km_aerea=2849
+
+Manaus,Salvador
+km_rodovia=5009
+km_aerea=2605
+
+Manaus,Sao Luis
+km_rodovia=5335
+km_aerea=1746
+
+Manaus,Sao Paulo
+km_rodovia=3971
+km_aerea=2689
+
+Manaus,Teresina
+km_rodovia=5267
+km_aerea=1921
+
+Manaus,Vitoria
+km_rodovia=1684
+km_aerea=2865
+
+Natal,Palmas
+km_rodovia=2345
+km_aerea=1527
+
+Natal,Porto Alegre
+km_rodovia=4066
+km_aerea=3172
+
+Natal,Porto Velho
+km_rodovia=4998
+km_aerea=3179
+
+Natal,Recife
+km_rodovia=297
+km_aerea=253
+
+Natal,Rio Branco
+km_rodovia=5533
+km_aerea=3616
+
+Natal,Rio de Janeiro
+km_rodovia=2625
+km_aerea=2805
+
+Natal,Salvador
+km_rodovia=1126
+km_aerea=875
+
+Natal,Sao Luis
+km_rodovia=1607
+km_aerea=1071
+
+Natal,Sao Paulo
+km_rodovia=2947
+km_aerea=2320
+
+Natal,Teresina
+km_rodovia=1171
+km_aerea=843
+
+Natal,Vitoria
+km_rodovia=2178
+km_aerea=1706
+
+Palmas,Porto Alegre
+km_rodovia=2747
+km_aerea=2222
+
+Palmas,Porto Velho
+km_rodovia=2973
+km_aerea=1711
+
+Palmas,Recife
+km_rodovia=2058
+km_aerea=1498
+
+Palmas,Rio Branco
+km_rodovia=3764
+km_aerea=2127
+
+Palmas,Rio de Janeiro
+km_rodovia=2625
+km_aerea=1512
+
+Palmas,Salvador
+km_rodovia=1454
+km_aerea=1114
+
+Palmas,Sao Luis
+km_rodovia=1386
+km_aerea=964
+
+Palmas,Sao Paulo
+km_rodovia=1776
+km_aerea=1493
+
+Palmas,Teresina
+km_rodovia=1401
+km_aerea=835
+
+Palmas,Vitoria
+km_rodovia=2214
+km_aerea=1413
+
+Porto Alegre,Porto Velho
+km_rodovia=3662
+km_aerea=2706
+
+Porto Alegre,Recife
+km_rodovia=3779
+km_aerea=2977
+
+Porto Alegre,Rio Branco
+km_rodovia=4196
+km_aerea=2814
+
+Porto Alegre,Rio de Janeiro
+km_rodovia=1553
+km_aerea=1123
+
+Porto Alegre,Salvador
+km_rodovia=3090
+km_aerea=2303
+
+Porto Alegre,Sao Luis
+km_rodovia=3891
+km_aerea=3142
+
+Porto Alegre,Sao Paulo
+km_rodovia=1109
+km_aerea=852
+
+Porto Alegre,Teresina
+km_rodovia=3804
+km_aerea=2909
+
+Porto Alegre,Vitoria
+km_rodovia=2001
+km_aerea=1536
+
+Porto Velho,Recife
+km_rodovia=4712
+km_aerea=3190
+
+Porto Velho,Rio Branco
+km_rodovia=544
+km_aerea=449
+
+Porto Velho,Rio de Janeiro
+km_rodovia=3473
+km_aerea=2707
+
+Porto Velho,Salvador
+km_rodovia=4023
+km_aerea=2808
+
+Porto Velho,Sao Luis
+km_rodovia=4434
+km_aerea=2274
+
+Porto Velho,Sao Paulo
+km_rodovia=3070
+km_aerea=2463
+
+Porto Velho,Teresina
+km_rodovia=4366
+km_aerea=2362
+
+Porto Velho,Vitoria
+km_rodovia=3575
+km_aerea=2835
+
+Recife,Rio Branco
+km_rodovia=5243
+km_aerea=3618
+
+Recife,Rio de Janeiro
+km_rodovia=2338
+km_aerea=1874
+
+Recife,Salvador
+km_rodovia=839
+km_aerea=675
+
+Recife,Sao Luis
+km_rodovia=1573
+km_aerea=1209
+
+Recife,Sao Paulo
+km_rodovia=2660
+km_aerea=2218
+
+Recife,Teresina
+km_rodovia=1137
+km_aerea=934
+
+Recife,Vitoria
+km_rodovia=1831
+km_aerea=1483
+
+Rio Branco,Rio de Janeiro
+km_rodovia=4007
+km_aerea=2982
+
+Rio Branco,Salvador
+km_rodovia=4457
+km_aerea=3206
+
+Rio Branco,Sao Luis
+km_rodovia=4968
+km_aerea=2726
+
+Rio Branco,Sao Paulo
+km_rodovia=3604
+km_aerea=2704
+
+Rio Branco,Teresina
+km_rodovia=4900
+km_aerea=2806
+
+Rio Branco,Vitoria
+km_rodovia=4109
+km_aerea=3156
+
+Rio de Janeiro,Salvador
+km_rodovia=1649
+km_aerea=1209
+
+Rio de Janeiro,Sao Luis
+km_rodovia=3015
+km_aerea=2266
+
+Rio de Janeiro,Sao Pauo
+km_rodovia=429
+km_aerea=357
+
+Rio de Janeiro,Teresina
+km_rodovia=2579
+km_aerea=1979
+
+Rio de Janeiro,Vitoria
+km_rodovia=521
+km_aerea=412
+
+Salvador,Sao Luis
+km_rodovia=1599
+km_aerea=1323
+
+Salvador,Sao Paulo
+km_rodovia=1962
+km_aerea=1453
+
+Salvador,Teresina
+km_rodovia=1163
+km_aerea=994
+
+Salvador,Vitoria
+km_rodovia=1202
+km_aerea=839
+
+Sao Luis,Sao Paulo
+km_rodovia=2970
+km_aerea=2348
+
+Sao Luis,Teresina
+km_rodovia=446
+km_aerea=329
+
+Sao Luis,Vitoria
+km_rodovia=2607
+km_aerea=2023
+
+Sao Paulo,Teresina
+km_rodovia=2792
+km_aerea=2091
+
+Sao Paulo,Vitoria
+km_rodovia=882
+km_aerea=741
+
+Teresina,Vitoria
+km_rodovia=2171
+km_aerea=1713

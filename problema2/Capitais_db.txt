@@ -1350,7 +1350,7 @@ Rio de Janeiro,Sao Luis
 km_rodovia=3015
 km_aerea=2266
 
-Rio de Janeiro,Sao Pauo
+Rio de Janeiro,Sao Paulo
 km_rodovia=429
 km_aerea=357
 

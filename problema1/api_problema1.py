@@ -5,7 +5,7 @@ from gerenciamento_dados_problema1 import calcular_dist_normal
 
 #Constantes
 #Instancia uma API com nome 'Teste_Data_Machina':
-app = Flask('Teste_Data_Machina')
+app = Flask('Teste_1_Data_Machina')
 #----------------------------------------------------------------------
 
 #Rotas
